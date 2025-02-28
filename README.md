@@ -1,6 +1,3 @@
-Below is a detailed Markdown documentation for the Background Generator project, written from the perspective of Dhruv Singh, a Web Development Intern at CodeClause Internship. This documentation covers the project overview, implementation details, technologies used, styling, responsiveness, challenges faced, and learning outcomes, aligning with the intermediate-level requirements specified.
-Background Generator Project Documentation
-
 Project ID: #CC9896
 
 Project Title: Background Generator
@@ -13,9 +10,9 @@ Assigned By: CodeClause Internship
 
 Assigned To: Dhruv Singh
 
-Start Date: TBD
+Start Date: 1 Feb 2025 
 
-End Date: TBD
+End Date: 28 Feb 2025 
 
 Author: Dhruv Singh
 
