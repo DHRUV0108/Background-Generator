@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Background Generator</title>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body>
+        <main>
+            <h1>Background Generator</h1>
+            <div id="background-preview"></div>
+            <div id="controls">
+                <label for="color1">Color 1:</label>
+                <input type="color" id="color1" value="#ff6b6b" />
+                <label for="color2">Color 2:</label>
+                <input type="color" id="color2" value="#4ecdc4" />
+                <label for="gradient-type">Gradient Type:</label>
+                <select id="gradient-type">
+                    <option value="linear">Linear</option>
+                    <option value="radial">Radial</option>
+                </select>
+                <button id="generate-code">Generate CSS</button>
+                <textarea
+                    id="css-code"
+                    readonly
+                    placeholder="Your CSS code will appear here"
+                ></textarea>
+            </div>
+        </main>
+        <script src="script.js"></script>
+    </body>
+</html>
